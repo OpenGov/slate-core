@@ -1,3 +1,1 @@
-# slate-core
-
-This [fork](https://github.com/OpenGov/slate) sub-package has been put in it's own repo so we can install it in the Stories application.
+This package contains the core logic of Slate. Feel free to poke around to learn more!
