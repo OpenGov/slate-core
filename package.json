@@ -6,10 +6,7 @@
   "repository": "git://github.com/ianstormtaylor/slate.git",
   "main": "lib/slate.js",
   "module": "lib/slate.es.js",
-  "umd": "dist/slate.js",
-  "umdMin": "dist/slate.min.js",
   "files": [
-    "dist/",
     "lib/"
   ],
   "dependencies": {
